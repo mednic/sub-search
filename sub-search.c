@@ -21,7 +21,7 @@ void banner
     printf("███████║╚██████╔╝██████╔╝      ███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║██╗╚██████╗\n");
     printf("╚══════╝ ╚═════╝ ╚═════╝       ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝\r\n");
     printf("by: \n");
-    printf("   https://github.com/medn1c\n");
+    printf("   https://github.com/mednic\n");
     printf("   https://github.com/Un1c-sys\n");
 
 }
