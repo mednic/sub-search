@@ -90,9 +90,9 @@ int main
 
 	        sleep(0.87);
             
-            printf("\r\n\t\t\t+===========================+\n");
-            printf("\t\t\t         TESTING...             \n");
-            printf("\t\t\t+===========================+\n");
+            printf("\r\n\t+===========================+\n");
+            printf("\t         TESTING...             \n");
+            printf("\t+===========================+\n");
 
 	        sleep(1);
             
